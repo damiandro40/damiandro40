@@ -1,5 +1,12 @@
-### Hi there 👋
+##Hi there
+I'm hobbyist web developer, working mostly on the back-end and from time to time I also do work on front-end (Vue / React). I'm still learning and improving my skills by making some projects that can be found here. I focus on creating APIs and real-time data-flow web apps. 
 
+##Technologies, that I've worked with
+-Node
+-Vue & React
+-MongoDB
+-Redis
+-Google Cloud
 <!--
 **damiandro40/damiandro40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
